@@ -2,7 +2,7 @@
 title: "About"
 about: 
   template: jolla
-  image: IMG_3586.jpg
+  image: image1.jpeg
   image-width: 5cm
   image-shape: round
   links:                    
