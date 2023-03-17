@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "here:\n\npoint 1\npoint 2\n\npoint 2.1\npoint 2.2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Bai Jingting, my English name is GoodBai. I come from Beijing. I love playing basketball."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUCL"
+  },
+  {
+    "objectID": "Achievement.html",
+    "href": "Achievement.html",
+    "title": "Achievements",
+    "section": "",
+    "text": "My achievements"
+  }
+]

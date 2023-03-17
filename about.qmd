@@ -1,0 +1,21 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: IMG_3586.jpg
+  image-width: 5cm
+  image-shape: round
+  links:                    
+    - icon: github
+      text: Github
+      href: https://github.com/Kitty820
+    - icon: linkedin
+      text: Linkedin
+      href: https://uk.linkedin.com/in/deyu-ming-03607230
+---
+
+I am Bai Jingting, my English name is GoodBai. I come from Beijing. I love playing basketball.
+
+## Education
+UCL
+---
